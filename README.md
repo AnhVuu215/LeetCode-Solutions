@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnhVuu215/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/AnhVuu215/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 ## Trie
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AnhVuu215/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AnhVuu215/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0450-delete-node-in-a-bst](https://github.com/AnhVuu215/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnhVuu215/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
