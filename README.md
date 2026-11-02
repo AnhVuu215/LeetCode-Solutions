@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AnhVuu215/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnhVuu215/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnhVuu215/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/AnhVuu215/LeetCode-Solutions/tree/master/0067-add-binary) |
